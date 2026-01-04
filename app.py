@@ -1,5 +1,8 @@
 print("Hello from EC2")
 
+
+SIMPLE PYTHON CODE PYTHON SCRIPT GITHUB AND DEPLOY TO EC2 MANUALLY.-----------------------------------------------------------------
+
 mkdir my-python-app
 cd my-python-app
 
