@@ -1,0 +1,48 @@
+it is used to share code with team, connect with CI/CD tools(Jenkins, GitHub)
+
+git --version--git version 2.43.0 is a current git version
+mkdir example1.com-- created a folder
+cd example1.com-- changeing directory to example1.com 
+ls-- is used to list files in exampl1.com folder
+vim calculator5.sh-- is used to create a file and writes in it.
+ls-- again now print ls it shows calculator5 file.
+
+just print git it shows it is installed or not.
+
+git init → It creates a new Git repository in your folder so Git can start tracking your code.
+
+ls -la-- it shows the .git
+ls .git--> it shows the git folder contents
+git status → It shows the current state of your repository
+git add calculator5.sh--> it trackes the file.
+git status--> now new file added calculator5.sh
+git diff--> it shows the exact changes made for file calculator5.sh
+git commit → It saves the staged changes permanently in Git with a message, creating a new version of your code.
+git log → It shows the history of commits, including commit ID, author, date, and message.
+git reset --hard bac65308c76e071d3dd53a985ee3aa9f061f24e6 → It completely moves your project back to that commit, deleting all changes made after it (both staged and unstaged).
+git checkout calacutor.sh-->is used to remove changes
+git push-->is used to push the project to GitHub.
+git clone--> is used to pull code from git hub.
+git fork--> is used to create a copy of reporitory
+
+3) WHAT IS GIT WORKFLOW?
+git add && git diff && git commit -m "" && git push
+
+git push
+git remote -v
+git remote add origin https://github.com/yadavvarun0909-png/bunny2.git
+ git branch -M main
+git push -u origin main
+Username for 'https://github.com': yadavvarun0909-png
+
+
+cp /mnt/c/Users/gangu/Downloads/varunya12.pem ~/
+chmod 600 ~/varunya12.pem
+ssh -i ~/varunya12.pem ubuntu@3.109.2.124
+varun@DESKTOP-3B7ENI0:~/AWS-Session-3$ nano .env
+varun@DESKTOP-3B7ENI0:~/AWS-Session-3$ node server.js
+Server listening on port: 3000
+You may access you app at: http://localhost:3000
+^C
+varun@DESKTOP-3B7ENI0:~/AWS-Session-3$
+
